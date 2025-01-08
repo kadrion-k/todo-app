@@ -25,10 +25,10 @@ A simple and interactive to-do list web application where users can add, mark, a
 
  - Click on a task to mark it as completed. The task will have a strike-through effect.
 
-3.Delete a Task:
+3. Delete a Task:
 
  - Click the "×" button on the task to remove it from the list.
 
-3. Persist Data:
+4. Persist Data:
 
  - The tasks are saved in the browser's localStorage. When the page is refreshed, the tasks will still be available.
